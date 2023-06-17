@@ -1,4 +1,4 @@
-<img style="height:4em;" src="./Policy-Center-HORIZ-logo-RGB-full.svg">
+<img style="height:8em;" src="./Policy-Center-HORIZ-logo-RGB-full.svg">
 
 In March 2023, 2020 Mom rebranded as the Policy Center for Maternal Mental Health. [Learn more](https://www.2020mom.org/blog/2023/3/30/maternal-mental-health-policy-leader-rebrands-as-the-policy-center-for-maternal-mental-health).
 ## Our Mission
