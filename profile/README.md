@@ -1,4 +1,3 @@
-<body>
 <img style="width:100%;" src="../PCMMH-web-banner-3.23.png">
 
 In March 2023, 2020 Mom rebranded as the Policy Center for Maternal Mental Health. [Learn more](https://www.2020mom.org/blog/2023/3/30/maternal-mental-health-policy-leader-rebrands-as-the-policy-center-for-maternal-mental-health).
@@ -14,11 +13,10 @@ Maternal Mental Health disorders, which are the most common complication of preg
 
 Though awareness of these disorders has increased substantially, most screening, diagnosis, and treatment is still not standardized and routine across the U.S. health delivery system. [Learn more.](https://www.2020mom.org/mmh-disorders)
 
-<footer style="text-align:center">
+<footer align="center">
 OUR MISSION<br>
 Closing gaps in maternal mental health care.
 
 Copyright © 2011-2023 Policy Center for Maternal Mental Health. All Rights Reserved.<br>
 The Policy Center for Maternal Mental Health is a DBA of 2020 Mom, a tax-exempt social change organization 501(c)(3). Tax ID: 45-5009704
 </footer>
-</body>
