@@ -13,10 +13,8 @@ Maternal Mental Health disorders, which are the most common complication of preg
 
 Though awareness of these disorders has increased substantially, most screening, diagnosis, and treatment is still not standardized and routine across the U.S. health delivery system. [Learn more.](https://www.2020mom.org/mmh-disorders)
 
-<footer align="center">
-OUR MISSION<br>
+## OUR MISSION
 Closing gaps in maternal mental health care.
 
 Copyright © 2011-2023 Policy Center for Maternal Mental Health. All Rights Reserved.<br>
 The Policy Center for Maternal Mental Health is a DBA of 2020 Mom, a tax-exempt social change organization 501(c)(3). Tax ID: 45-5009704
-</footer>
