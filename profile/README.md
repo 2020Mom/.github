@@ -11,7 +11,7 @@ All pregnant and postpartum mothers have ready access to standardized, evidence-
 
 Maternal Mental Health disorders, which are the most common complication of pregnancy, impact, on average, up to 1 in 5 of the expecting and postpartum mothers in the U.S., mothers of color suffer at higher rates.
 
-<img style="width:100%;" src="../The%2BProblem%2Bwe%2Bare%2BHere%2Bto%2BSolve%2BPCMMH%2BIG001-3.23.png">
+<img style="width:100%;" src="./The%2BProblem%2Bwe%2Bare%2BHere%2Bto%2BSolve%2BPCMMH%2BIG001-3.23.png">
 
 Though awareness of these disorders has increased substantially, most screening, diagnosis, and treatment is still not standardized and routine across the U.S. health delivery system. [Learn more.](https://www.2020mom.org/mmh-disorders)
 
