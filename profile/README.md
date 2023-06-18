@@ -1,4 +1,4 @@
-<div style="margin:auto;">
+<div style="margin:auto;width:100%;">
     <img style="width:50%;display:block;margin:auto;" src="./Policy-Center-HORIZ-logo-RGB-full.svg">
 </div>
 
